@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/minimal-timer-and-stopwatch-141652-141661/timer_frontend"
+}
